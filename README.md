@@ -1,2 +1,1 @@
-# DDOS-automatic
-t
+# DDOS-automatic script
