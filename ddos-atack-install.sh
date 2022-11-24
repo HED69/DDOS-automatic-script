@@ -12,6 +12,8 @@ sudo apt install python -y
 sudo apt install python2 -y
 sudo apt install python3 -y
 sudo apt install figlet -y
+sudo apt install python-colorama -y
+sudo apt install python3-colorama -y
 clear
 figlet "installing"
 echo "This script is not owned by me, you can access the original from: https://github.com/biyivi/biyivi_ataque_DDos"
