@@ -21,8 +21,6 @@ clear
 sleep 2
 sudo apt update
 sudo apt upgrade -y
-python biyivi_ddos.py
 clear
-sleep 2
-sudo apt update
-sudo apt upgrade -y
+sleep 1
+python biyivi_ddos.py
