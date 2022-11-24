@@ -19,10 +19,5 @@ figlet "installing"
 echo "This script is not owned by me, you can access the original from: https://github.com/biyivi/biyivi_ataque_DDos"
 git clone https://github.com/biyivi/biyivi_ataque_DDos
 cd biyivi_ataque_DDos
-clear
-sleep 2
-sudo apt update
-sudo apt upgrade -y
-clear
-sleep 1
-python biyivi_ddos.py
+chmod 777 install.sh
+./install.sh
