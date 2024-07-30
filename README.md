@@ -32,6 +32,11 @@ chmod 777 ddos-atack-install.sh
 ./ddos-atack-install.sh
 ```
 
+
+credits to: biyivi
+
+
+
 # contact
 
 email: HED_BOT@protonmail.com
